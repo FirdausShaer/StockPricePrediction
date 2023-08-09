@@ -13,6 +13,7 @@
 10. Re-simulate Prices with Drift.
 11. Calculate Worst, Average, and Best Scenarios.
 12. Display Confidence Intervals
+13. Calculate Value at Risk (VAR) corresponding to confidence intervals.
 
 ![Simulation Result](https://github.com/FirdausShaer/StockPricePrediction/blob/main/Stocks%20Price%20Prediction.png)
 **Please rate it**
