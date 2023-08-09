@@ -14,6 +14,6 @@
 11. Calculate Worst, Average, and Best Scenarios.
 12. Display Confidence Intervals
 
-!(Stocks Price Prediction.png)
+![Simulation Result](Stocks Price Prediction.png)
 **Please rate it**
 
